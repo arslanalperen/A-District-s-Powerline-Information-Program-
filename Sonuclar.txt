@@ -1,0 +1,15 @@
+Musteri Tipi: MESKEN(1)
+Istenilen musteri bilgileri: ID  X1    Y1    X2    Y2
+                              114421   3474639.00  5181994.00  3474639.00  5181994.00
+Indirici Sayisi: 1
+Musteri Sayisi : 566
+Hat Sayisi     : 889
+
+Mesken Tipi Musteri Sayisi: 322
+Ticari Tipi Musteri Sayisi: 229
+Sanayi Tipi Musteri Sayisi: 15
+
+Indirici bilgileri: ID  X1    Y1    X2    Y2
+                    1  3275809.50  4989498.00  3275809.50  4989498.00
+
+Toplam Hat Uzunlugu: 89962.023438 m'dir.
