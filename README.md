@@ -28,11 +28,11 @@ When the program finishes running, it creates two .txt files. Most of the inform
 
 If the existing customer and line id in the system is entered, a visual like the one below is taken.  
 
-![Imag _3](/images/gorsel3.png)  
+![Imag _4](/images/gorsel4.png)  
 
 In the second .txt file created by the program, the air distance between each customer and the step-down transformer center will be written.  
 
-![Imag _4](/images/gorsel4.png)  
+![Imag _3](/images/gorsel3.png)  
 
 **<h1>Flowchart of the Program</h1>**  
 
